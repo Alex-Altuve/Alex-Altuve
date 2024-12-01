@@ -3,5 +3,4 @@
 </a>
 <img src="https://wallpapers.com/images/hd/coder-and-caffeine-a2o00zzemelbatib.jpg" alt="Hero" data-canonical-src="https://imgur.com/I9Khvpw.png" style="max-width: 100%;" />
 
-- 👋 Hi, I’m @Alex-Altuve
-
+<center>👋 Hi, I’m @Alex-Altuve</center>
