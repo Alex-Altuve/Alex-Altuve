@@ -8,4 +8,4 @@
 
 <img src="https://wallpapers.com/images/hd/coder-and-caffeine-a2o00zzemelbatib.jpg" alt="Hero" data-canonical-src="https://imgur.com/I9Khvpw.png" style="max-width: 100%;" />
 
-<h3 align="center" class="heading-element" dir="auto">👋 Hi, I’m @Alex-Altuve</h3>
+<h3 align="center" class="heading-element" dir="auto">👋 Hi, I’m Alex Altuve</h3>
