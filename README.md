@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&color2=000000&height=120&section=header" width="100%"/>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/alex-altuve-delgado-b1a212288/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -7,13 +9,13 @@
   </a>
 </div>
 
-
----
-
-<h1 align="center">Alex Altuve</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7DF9FF&center=true&vCenter=true&width=500&lines=Alex+Altuve" />
+</p>
 <h3 align="center">Software Developer | Cybersecurity & AI | Motorsport Enthusiast</h3>
-
----
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/sportcar-supra-mk4-midnight-logo-design-vector_72766-453.jpg" width="200" />
+</p>
 
 ### About Me
 <p align="left">
@@ -35,7 +37,6 @@ I am also exploring <b>cybersecurity</b> and how it intersects with <b>artificia
   <img src="https://img.shields.io/badge/Software%20Architecture-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity%20%2B%20AI-black?style=for-the-badge" />
 </p>
-
 ---
 
 ### Languages and Tools
@@ -64,8 +65,8 @@ I am also exploring <b>cybersecurity</b> and how it intersects with <b>artificia
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-altuve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-altuve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-altuve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-altuve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
