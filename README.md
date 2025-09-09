@@ -26,7 +26,6 @@ Professionally, I focus on <b>software development</b> and <b>system architectur
 I am also exploring <b>cybersecurity</b> and how it intersects with <b>artificial intelligence</b>.  
 </p>
 
-
 ### Interests
 <p align="center">
   <img src="https://img.shields.io/badge/Cars-blue?style=for-the-badge" />
@@ -36,7 +35,6 @@ I am also exploring <b>cybersecurity</b> and how it intersects with <b>artificia
   <img src="https://img.shields.io/badge/Software%20Architecture-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity%20%2B%20AI-black?style=for-the-badge" />
 </p>
----
 
 ### Languages and Tools
 <div align="left">
