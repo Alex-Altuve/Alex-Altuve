@@ -26,7 +26,6 @@ Professionally, I focus on <b>software development</b> and <b>system architectur
 I am also exploring <b>cybersecurity</b> and how it intersects with <b>artificial intelligence</b>.  
 </p>
 
----
 
 ### Interests
 <p align="center">
