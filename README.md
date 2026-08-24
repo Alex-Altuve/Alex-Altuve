@@ -54,11 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"/>
 </div>
-
----
-
-### 🔥 My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-altuve&locale=en&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/>
- <img src="https://streak-stats.demolab.com?user=alex-altuve&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
