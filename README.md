@@ -10,9 +10,8 @@
   </a>
 </div>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=34&weight=700&color=7DF9FF&center=true&vCenter=true&width=400&lines=Alex+Altuve" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&weight=700&color=7DF9FF&center=true&vCenter=true&width=400&lines=Alex+Altuve" />
 </p>
 <h2 align="center">Software Developer | Cybersecurity & AI | Motorsport Enthusiast</h2>
 
