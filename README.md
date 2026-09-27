@@ -12,9 +12,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7DF9FF&center=true&vCenter=true&width=400&lines=Alex+Altuve" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=34&weight=700&color=7DF9FF&center=true&vCenter=true&width=400&lines=Alex+Altuve" />
 </p>
-
 <h2 align="center">Software Developer | Cybersecurity & AI | Motorsport Enthusiast</h2>
 
 <p align="center">
@@ -45,6 +44,7 @@
 ### 🛠️ Tech Stack  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".net logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"/>
